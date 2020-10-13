@@ -16,7 +16,7 @@ Usually, the firewall accepts the connection even in schools or works!
 ## Installation
 ```toml
 [dependencies]
-sltunnel = { path = "[path to crate]" }
+sltunnel = "0.1"
 ```
 
 ## Examples
