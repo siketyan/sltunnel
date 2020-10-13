@@ -1,6 +1,14 @@
 [package]
 name = "sltunnel"
+description = "A simple TLS tunneling implementation, written in Rust."
 version = "0.1.0"
+license = "MIT"
+license-file = "LICENCE.md"
+readme = "README.md"
+homepage = "https://github.com/siketyan/sltunnel"
+repository = "https://github.com/siketyan/sltunnel"
+documentation = "https://github.com/siketyan/sltunnel/#readme"
+keywords = ["rust-library", "tls-tunnel", "firewall-bypass"]
 authors = ["Naoki Ikeguchi <root@siketyan.dev>"]
 edition = "2018"
 
