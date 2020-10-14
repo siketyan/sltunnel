@@ -1,4 +1,5 @@
 # 🚇 sltunnel
+![Rust](https://github.com/siketyan/sltunnel/workflows/Rust/badge.svg)  
 A simple TLS tunneling implementation, written in Rust.
 
 ## What is TLS tunneling?
